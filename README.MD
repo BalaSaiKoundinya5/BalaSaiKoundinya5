@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others geeks
 - 🥅 2024 Goals: Learn more about Data Science and Machine Learning
-- ⚡ Fun fact: I love to solve sudoku puzzles and technophile
+- ⚡ Fun Fact: I love to solve sudoku puzzles and technophile
 
 &nbsp;
 
