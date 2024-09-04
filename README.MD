@@ -1,6 +1,6 @@
 # Hi there, I'm Bala Sai Koundinya 👋
 
-## I'm a Data Geek, Machine Learning Enthusiast!!
+## I'm a Data Geek, Machine Learning Enthusiast !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others geeks
