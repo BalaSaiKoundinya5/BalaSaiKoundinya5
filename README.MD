@@ -7,7 +7,7 @@
 - 🥅 2024 Goals: Learn more about Data Science and Machine Learning
 - ⚡ Fun fact: I love to solve sudoku puzzles and technophile
 
-&nbsp;&nbsp;
+&nbsp;
 
 ### Languages and Tools:
 
