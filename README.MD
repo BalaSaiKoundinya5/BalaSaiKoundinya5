@@ -47,6 +47,24 @@
 <a href = "https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank">
     <img align="left" alt="Advanced Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />
 </a>
+<a href = "https://aws.amazon.com/" target="_blank">
+    <img align="left" alt="AWS Cloud" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="padding-right:10px;" />
+</a>
+<a href = "https://pandas.pydata.org/" target="_blank">
+    <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" style="padding-right:10px;" />
+</a>
+<a href = "https://seaborn.pydata.org/" target="_blank">
+    <img align="left" alt="Seaborn" width="26px" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" style="padding-right:10px;" />
+</a>
+<a href = "https://numpy.org/" target="_blank">
+    <img align="left" alt="Numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" style="padding-right:10px;" />
+</a>
+<a href = "" target="_blank">
+    <img align="left" alt="Matplotlib" width="26px" src="" style="padding-right:10px;" />
+</a>
+<a href = "https://docs.google.com/spreadsheets/d/1RXrphDHgskUG8OTRWmEng6-Z0T13jtXxYdq3faGaIRI/edit?gid=0#gid=0" target="_blank">
+    <img align="left" alt="Google Sheets" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" style="padding-right:10px;" />
+</a>
 
 <br />
 <br />
