@@ -59,8 +59,8 @@
 <a href = "https://numpy.org/" target="_blank">
     <img align="left" alt="Numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" style="padding-right:10px;" />
 </a>
-<a href = "" target="_blank">
-    <img align="left" alt="Matplotlib" width="26px" src="" style="padding-right:10px;" />
+<a href = "https://matplotlib.org/" target="_blank">
+    <img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="padding-right:10px;" />
 </a>
 <a href = "https://docs.google.com/spreadsheets/d/1RXrphDHgskUG8OTRWmEng6-Z0T13jtXxYdq3faGaIRI/edit?gid=0#gid=0" target="_blank">
     <img align="left" alt="Google Sheets" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" style="padding-right:10px;" />
