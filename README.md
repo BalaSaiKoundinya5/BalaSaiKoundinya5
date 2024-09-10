@@ -88,7 +88,7 @@
 </p>
 
 
-<p style="margin-bottom:20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balasaikoundinya5&show_icons=true&locale=en&layout=compact" alt="balasaikoundinya5" style="display: block; margin-bottom: 20px;"/></p>
+<p style="margin-bottom:20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balasaikoundinya5&show_icons=true&locale=en&layout=compact" alt="balasaikoundinya5"/></p>
 
 &nbsp;
 
