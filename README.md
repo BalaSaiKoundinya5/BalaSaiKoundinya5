@@ -93,4 +93,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=balasaikoundinya5&show_icons=true&locale=en" alt="balasaikoundinya5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balasaikoundinya5&" alt="balasaikoundinya5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balasaikoundinya5&" alt="balasaikoundinya5" style="margin-bottom:20px"/></p>
