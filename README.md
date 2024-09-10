@@ -26,12 +26,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-##########################
+
 <a href = "https://code.visualstudio.com/" target="_blank">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </a>
@@ -87,7 +86,6 @@
     <img align="left" alt="Google Sheets" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" style="padding-right:10px;" />
 </a>
 
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balasaikoundinya5&show_icons=true&locale=en&layout=compact" alt="balasaikoundinya5" /></p>
 
