@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)](https://balasaikoundinya5.io)
 
-<h1 align="center">Hi 👋, I'm Bala Sai Koundinya B</h1>
+<h1 align="center">Hi 👋, I'm Bala Sai Koundinya </h1>
 <h3 align="center">I'm a Data Geek, Machine Learning Enthusiast !!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://s6.ezgif.com/tmp/ezgif-6-03273fd268.gif"/>
@@ -14,15 +14,16 @@
 
 - 👯 I’m looking to collaborate with **others geeks**
 
-- 🤝 I’m looking for help with **Data Scientist**
+- 🤝 I’m looking for help with **Data Science**
 
-- 🥅 2024 Goals [Learn more about Data Science and Machine Learning](Learn more about Data Science and Machine Learning)
+- 🥅 2024 Goals Learn more about Data Science and Machine Learning
 
 - 💬 Ask me about **Data Analytics and Data Science**
 
+- ⚡ Fun fact **I love to solve sudoku puzzles and technophile** 
+
 - 📫 How to reach me **balasaikoundinya5@gmail.com**
 
-- ⚡ Fun fact **I love to solve sudoku puzzles and technophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
