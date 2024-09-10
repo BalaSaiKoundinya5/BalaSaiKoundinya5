@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+<p>
 <a href = "https://code.visualstudio.com/" target="_blank">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </a>
@@ -85,7 +85,7 @@
 <a href = "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fcreate&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fcreate&ifkv=Ab5oB3q_uieHnOrCDdk1D9oLyNanTzUBjcb76lxjk8GmyX-GVpqH7XJOEwtNO_TH7uWkGqNYVOHeEA&ltmpl=sheets&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S221600057%3A1725882438349658&ddm=0" target="_blank">
     <img align="left" alt="Google Sheets" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" style="padding-right:10px;" />
 </a>
-
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balasaikoundinya5&show_icons=true&locale=en&layout=compact" alt="balasaikoundinya5" /></p>
 
