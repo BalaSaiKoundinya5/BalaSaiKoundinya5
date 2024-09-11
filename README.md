@@ -1,6 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)](https://balasaikoundinya5.io)
 
 <h1 align="center">Hi there👋</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Bala+Sai+Koundinya)](https://git.io/typing-svg)
 
 ###### Glad to see you here :heart:
