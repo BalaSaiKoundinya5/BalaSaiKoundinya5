@@ -7,8 +7,7 @@
 ###### Glad to see you here :heart:
 <h3 align="center">I'm a Data Geek, Machine Learning Enthusiast !!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://s6.ezgif.com/tmp/ezgif-6-03273fd268.gif"/>
-<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src=""C:\Users\DELL\Downloads\giphy (1).gif""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balasaikoundinya5&label=Profile%20views&color=0e75b6&style=flat" alt="balasaikoundinya5" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
