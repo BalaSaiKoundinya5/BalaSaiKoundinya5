@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi there👋</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Bala+Sai+Koundinya)](https://git.io/typing-svg)
+
 ###### Glad to see you here :heart:
 <h3 align="center">I'm a Data Geek, Machine Learning Enthusiast !!</h3>
 <img align="right" alt="Coding" width="400" src="https://s6.ezgif.com/tmp/ezgif-6-03273fd268.gif"/>
