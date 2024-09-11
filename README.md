@@ -1,17 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)](https://balasaikoundinya5.io)
 
 <h1 align="center">Hi there👋</h1>
-### Hey there :wave:
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Bala+Sai+Koundinya)](https://git.io/typing-svg)
-
 ###### Glad to see you here :heart:
-
 <h3 align="center">I'm a Data Geek, Machine Learning Enthusiast !!</h3>
-
 <img align="right" alt="Coding" width="400" src="https://s6.ezgif.com/tmp/ezgif-6-03273fd268.gif"/>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balasaikoundinya5&label=Profile%20views&color=0e75b6&style=flat" alt="balasaikoundinya5" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
