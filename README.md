@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Data Analytics and Data Science**
 
-- ⚡ Fun fact **I love to solve sudoku puzzles and technophile** 
+- ⚡ Fun fact **I love to solve sudoku puzzles and I am a technophile** 
 
 - 📫 How to reach me **balasaikoundinya5@gmail.com**
 
